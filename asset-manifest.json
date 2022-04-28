@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/DEVNHIL/agilbuela.git/static/css/main.073c9b0a.css",
-    "main.js": "/DEVNHIL/agilbuela.git/static/js/main.30fc7755.js",
-    "static/js/787.606f8868.chunk.js": "/DEVNHIL/agilbuela.git/static/js/787.606f8868.chunk.js",
-    "static/media/logo.svg": "/DEVNHIL/agilbuela.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/DEVNHIL/agilbuela.git/index.html",
-    "main.073c9b0a.css.map": "/DEVNHIL/agilbuela.git/static/css/main.073c9b0a.css.map",
-    "main.30fc7755.js.map": "/DEVNHIL/agilbuela.git/static/js/main.30fc7755.js.map",
-    "787.606f8868.chunk.js.map": "/DEVNHIL/agilbuela.git/static/js/787.606f8868.chunk.js.map"
+    "main.css": "/agilbuela/static/css/main.073c9b0a.css",
+    "main.js": "/agilbuela/static/js/main.6f4b7dc4.js",
+    "static/js/787.606f8868.chunk.js": "/agilbuela/static/js/787.606f8868.chunk.js",
+    "static/media/logo.svg": "/agilbuela/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/agilbuela/index.html",
+    "main.073c9b0a.css.map": "/agilbuela/static/css/main.073c9b0a.css.map",
+    "main.6f4b7dc4.js.map": "/agilbuela/static/js/main.6f4b7dc4.js.map",
+    "787.606f8868.chunk.js.map": "/agilbuela/static/js/787.606f8868.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.30fc7755.js"
+    "static/js/main.6f4b7dc4.js"
   ]
 }
